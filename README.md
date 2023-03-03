@@ -1,4 +1,4 @@
 # jaiswalpuru.github.io
 Portfolio
 
-Theme refer from : https://github.com/arifszn/gitprofile
+Refer : https://github.com/arifszn/gitprofile

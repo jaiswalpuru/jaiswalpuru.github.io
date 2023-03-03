@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1JIRLA8Zh5ODJrGC9c7fm5S8_YGA591XE/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
@@ -50,7 +50,8 @@ const config = {
       position: 'Software Developer Intern',
       from: 'June 2022',
       to: 'Dec 2022',
-      companyLink: 'https://git.eclipse.org/r/q/project:tracecompass%252Forg.eclipse.tracecompass',
+      companyLink:
+        'https://git.eclipse.org/r/q/project:tracecompass%252Forg.eclipse.tracecompass',
     },
     {
       company: 'redBus',
@@ -124,7 +125,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
